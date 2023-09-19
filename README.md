@@ -1,6 +1,9 @@
 # Grupo 4 (API II) 
 
 Projeto do curso de graduação em Logística.
+- Análise das matriz de transportes (modais) para importação e exportação no Estado de São Paulo (SP) no período de janeiro a julho de 2023 
+![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/127805074/459b1463-a518-4aeb-8b85-751a607962b3)
+
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
