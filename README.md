@@ -1,4 +1,4 @@
-# Nome da equipe (API II) 
+# Grupo 4 (API II) 
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
 
