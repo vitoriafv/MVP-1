@@ -1,7 +1,5 @@
 # Grupo 4 (API II) 
-
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/127805074/459b1463-a518-4aeb-8b85-751a607962b3)
-
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
