@@ -92,9 +92,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Backlog do produto
   
-<div align="center">
-    
-![product backlog](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/1.png)
+<div align="left">
+
+ <img align="center" alt="Mat-Bl" height="900" width="900" src="https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/1.png">
 
 </div>
 
