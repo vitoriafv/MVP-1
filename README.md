@@ -1,6 +1,6 @@
 # Grupo 4 (API II) 
 
-Projeto Integrador do 2º semestre em Logística baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+Projeto Integrador do 2º semestre em Logística é baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
 
