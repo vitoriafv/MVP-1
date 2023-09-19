@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Nome da equipe (API II) 
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
 
@@ -6,8 +6,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
+* [Projeto](#projeto (api))
+* [Micro Certificações](#Micro-Certificaçoes)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
@@ -29,16 +29,21 @@ Sprint | Previsão | Status| Histórico|
 |01|  16/10/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 06/11/2023  | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/11/2023  |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|XX/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 # Micro Certificações
-Futuramente
+GitHub
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
+Jira Software
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
