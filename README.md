@@ -48,11 +48,10 @@ Jira Software
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a matriz de transportes do Estado de São Paulo entre janeiro e julho de 2023, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Desenvolver habilidades técnicas;
+* Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas;
+* Desenhar a geografia do fluxo da carga para importação e exportação.
+  
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
