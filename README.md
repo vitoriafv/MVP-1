@@ -1,6 +1,7 @@
 # Grupo 4 (API II) 
 
-Projeto Integrador do 2º semestre em Logística é baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+* Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística, visando a prática da interdisciplinaridade.
+* O Projeto é baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
 
