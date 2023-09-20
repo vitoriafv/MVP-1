@@ -4,7 +4,7 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 
 # Índice
 
-* [Projeto](#projeto (api))
+* [Projeto](#Projeto)
 * [Micro Certificações](#Micro-Certificaçoes)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -15,7 +15,7 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
+# Projeto
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
@@ -102,17 +102,20 @@ Regras de Negócio
 - 
 
 Requisitos funcionais 
+- Montar um dashboard em que o cliente possa monitorar o desempenho dos fluxos de cargas
+- Identificar os modais ultilizados no trâmites internacionais de movimentação de cargas
 - Conteúdo da apresentação   
 - Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
+- Facil usabilidade
+- Metodologia ágil SCRUM
+- Github / Jira / Canvas / excel / powerbi
   
 User stories
+- Como um analista de dados de importações e exportações de cargas, eu quero saber qual modal foi utilizado para o transporte do produto X desde a sua origem até o seu destino final, e
+se houve alteração de modal durante o percurso. Com essas informações, quero traçar todo o trajeto que foi feito e saber qual o transporte mais usado.
 
 # Burndown
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
