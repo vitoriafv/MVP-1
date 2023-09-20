@@ -5,10 +5,10 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 # Índice
 
 * [Projeto](#Projeto)
-* [Micro Certificações](#Micro-Certificaçoes)
+* [Micro Certificações](#Micro-Certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
@@ -56,11 +56,10 @@ Este projeto tem como objetivo analisar a matriz de transportes do Estado de Sã
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+[![Github](https://i.ytimg.com/vi/DqTITcMq68k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtsOKZaJPf3R8dOV91BQYXFL1r2w)](https://www.youtube.com/watch?v=DqTITcMq68k)
+[![Jira-software](https://i.ytimg.com/vi/aTjZxZX99Hw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdz60aPvksXoXf0PKADaIhc0pu7w)](https://www.youtube.com/watch?v=aTjZxZX99Hw)
 
 ## Tecnologias Utilizadas
   ### Produto 
