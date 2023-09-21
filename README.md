@@ -5,7 +5,6 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 # Índice
 
 * [Projeto](#Projeto)
-* [Micro Certificações](#Micro-Certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
@@ -24,24 +23,10 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG002.A994.N.074.146.20232/Material%20de%20Aula/Kick-off%20API%202N.pptx?d=w5ac37fd2cf0d4a77b3837f72f2f03dd4&csf=1&web=1&e=f4wPfU) | 
 |00| 25/09/2023  |em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  16/10/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 06/11/2023  | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 27/11/2023  |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|XX/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
-
-# Micro Certificações
-GitHub
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-Jira Software
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
+|01|  16/10/2023 | a fazer |[Ver Relatório]() | 
+|02| 06/11/2023  | a fazer|[Ver Relatório]() | 
+|03| 27/11/2023  |a fazer |[Ver Relatório]()  | 
+|Feira de Soluções|XX/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
