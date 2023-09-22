@@ -47,6 +47,10 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 [![Jira-software](https://i.ytimg.com/vi/aTjZxZX99Hw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdz60aPvksXoXf0PKADaIhc0pu7w)](https://www.youtube.com/watch?v=aTjZxZX99Hw)
 
 ## Tecnologias Utilizadas
+<div>
+  <img align="center" alt="scrum" heigh="50" width="70" src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png">
+  <img align="center" alt="jira" heign="150" width="170" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png">
+</div>
 
   ### Produto 
  MVP:  Entrega do backlog e documentação referente ao pedido do cliente. 
