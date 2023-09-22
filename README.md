@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |01|  16/10/2023 | a fazer |[Ver Relatório]() | 
 |02| 06/11/2023  | a fazer|[Ver Relatório]() | 
 |03| 27/11/2023  |a fazer |[Ver Relatório]()  | 
-|Feira de Soluções|XX/12/2023 |a fazer |[Ver Relatório]() | 
+|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
