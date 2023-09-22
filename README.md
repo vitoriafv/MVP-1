@@ -53,7 +53,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 </div>
 
   ### Produto 
- MVP:  Entrega do backlog e documentação referente ao pedido do cliente. 
+ MVP sprint 0:  Entrega do backlog e documentação referente ao pedido do cliente. 
 
  ### Tecnologias Específicas/Apoio
 Exemplos: 
