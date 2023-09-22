@@ -47,7 +47,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
-# Cronograma das Sprints
+# Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
