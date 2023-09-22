@@ -16,7 +16,7 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 
 # Projeto
 O projeto compreende em atender a demanda do cliente entregando o MVP (Minimum viable product) ao final de cada sprint, sendo ao todo quatro sprints, com a ultima sendo a entrega do produto final.
-O produto final consiste de um dashboard que identifique os modais utilizados no trnansporte internacional de cargas e uma visualização das rotas utilizadas 
+O produto final consiste de um dashboard que identifique os modais utilizados no trnansporte internacional de cargas e a visualização das rotas utilizadas no fluxo de cargas de importação e exportação.
  
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -64,7 +64,7 @@ Exemplos:
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
 - Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
+- [![backlog](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
 - MVP
 - [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
 - Scrum para iniciantes
