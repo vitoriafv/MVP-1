@@ -29,7 +29,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Equipe
-![image](blob:https://web.whatsapp.com/440d5643-7008-4625-be75-82396e10e3b9) 
+![image]([blob:https://web.whatsapp.com/440d5643-7008-4625-be75-82396e10e3b9](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/38c0995f31244be7650be8196f5ba684b233500b/WhatsApp%20Image%202023-09-22%20at%2014.00.56.jpeg)) 
 
 
 # Objetivo do Projeto
