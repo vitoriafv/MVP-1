@@ -29,7 +29,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Equipe
-![image](WhatsApp Image 2023-09-22 at 14.00.56.jpeg)
+![image](blob:https://web.whatsapp.com/440d5643-7008-4625-be75-82396e10e3b9) 
 
 
 # Objetivo do Projeto
