@@ -47,15 +47,15 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 [![Jira-software](https://i.ytimg.com/vi/aTjZxZX99Hw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdz60aPvksXoXf0PKADaIhc0pu7w)](https://www.youtube.com/watch?v=aTjZxZX99Hw)
 
 ## Tecnologias Utilizadas
+
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+ MVP:  Entrega do backlog e documentação referente ao pedido do cliente. 
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
 Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
+- [metodologia SCRUM](https://www.atlassian.com/br/agile/scrum)
+- [Superdicas de Networking para sua vida pessoal e profissional](https://www.lensminarelli.com.br/media_center/superdicas-de-networking-para-sua-vida-pessoal-e-profissional/)
+- [Fundamentos do Dev Team](https://emersonzuliani.com.br/papeis-do-scrum-o-time-de-desenvolvimento-development-team/)
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
@@ -78,7 +78,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="left">
 
- <img align="center" alt="Mat-Bl" height="450" width="612" src="https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/1.png">
+ <img align="center" alt="Mat-Bl" height="450" width="612" src="https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/1%20(1).png">
 
 </div>
 
@@ -89,7 +89,6 @@ Requisitos funcionais
 - Montar um dashboard em que o cliente possa monitorar o desempenho dos fluxos de cargas
 - Identificar os modais ultilizados no trâmites internacionais de movimentação de cargas
 - Conteúdo da apresentação   
-- Relatórios 
 
   
 Requisitos não funcionais
@@ -105,45 +104,27 @@ se houve alteração de modal durante o percurso. Com essas informações, quero
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 0. Concepção
+- [ ] Estruturar o Jira;
+- [ ] Estruturar o Github;
+- [ ] Aprender a usar o Power BI;
+- [ ] Estudar matriz do transporte;
+- [x] Aprender a usar o Jira;
+- [x] Aprender a usar o Github
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] Tratar dados do Excel;
+- [ ] Relatório Sprint 1;
+- [ ] Entender o que é valor agregado, médio e desvio padrão;
+- [ ] Definir indicadores gerais de importação/exportação;
+- [ ] Criar dashboard da matriz de transporte
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 2 . Implementação
+- [ ] Relatório Sprint 2
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 3. Operacionalização
+- [ ] Relatório Sprint 3
+
 
 
 # Competências desenvolvidas
@@ -170,8 +151,8 @@ se houve alteração de modal durante o percurso. Com essas informações, quero
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
@@ -182,11 +163,11 @@ se houve alteração de modal durante o percurso. Com essas informações, quero
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Helloísa Reis  |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helloisareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/helloisachinaide) |
-| Scrum Master  |  Brenda Nogueira  |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/brenda-nogueira-8a61b61a2?trk=people-guest_people_search-card) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hexagonlogistic) |
+| Scrum Master  |  Brenda Nogueira  |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-nogueira-8a61b61a2/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hexagonlogistic) |
 | Team Member   |  Matheus Belônia  |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-bel%C3%B4nia-paix%C3%A3o-4b817225a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Matheus-Belonia) |
-|  Team Member  |  Christopher Leão  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/christopher-le%C3%A3o-1953871a9?trk=people-guest_people_search-card) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/chrisleao)  |
-|  Team Member  |  Dener da Silva  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/dener-barros-4114739b?trk=people-guest_people_search-card) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dener92) |
-|  Team Member  |  Caliel  |                   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Calszika2001) |
-|  Team Member  | Alan Douglas |               [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlanDouglas701) |
-|  Team Member  |  Iago  |                     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](Iago vai mandar ainda) |
+|  Team Member  |  Christopher Leão  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-le%C3%A3o-1953871a9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/chrisleao)  |
+|  Team Member  |  Dener da Silva  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dener-barros-4114739b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dener92) |
+|  Team Member  |  Caliel  |                   ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Calszika2001) |
+|  Team Member  | Alan Douglas |               ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlanDouglas701) |
+|  Team Member  |  Iago  |                     ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white) |
 
