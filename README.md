@@ -29,7 +29,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Equipe
-![Equipe](![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/127805074/1c4626aa-ebf3-42c3-a278-ee57b5a39b9c)
+![Equipe](blob:https://web.whatsapp.com/440d5643-7008-4625-be75-82396e10e3b9)
 )
 
 # Objetivo do Projeto
