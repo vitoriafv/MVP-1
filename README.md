@@ -29,7 +29,8 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+![Equipe](![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/127805074/1c4626aa-ebf3-42c3-a278-ee57b5a39b9c)
+)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a matriz de transportes do Estado de São Paulo entre janeiro e julho de 2023, visando:
