@@ -15,8 +15,9 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 * [Autores](#autores)
 
 # Projeto
-O projeto consiste em atender a demanda do cliente entregando o MVP (Minimum viable product) ao final de cada sprint, sendo ao todo quatro sprints, com a ultima sendo a entrega do produto final.
-
+O projeto compreende em atender a demanda do cliente entregando o MVP (Minimum viable product) ao final de cada sprint, sendo ao todo quatro sprints, com a ultima sendo a entrega do produto final.
+O produto final consiste de um dashboard que identifique os modais utilizados no trnansporte internacional de cargas e uma visualização das rotas utilizadas 
+ 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG002.A994.N.074.146.20232/Material%20de%20Aula/Kick-off%20API%202N.pptx?d=w5ac37fd2cf0d4a77b3837f72f2f03dd4&csf=1&web=1&e=f4wPfU) | 
