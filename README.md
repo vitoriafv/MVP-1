@@ -98,7 +98,7 @@ Requisitos funcionais
 Requisitos não funcionais
 - Facil usabilidade
 - Metodologia ágil SCRUM
-- Github / Jira / Canvas / excel / powerbi
+- Github / Jira / Canvas / Excel / Power BI
   
 User stories
 - Como um analista de dados de importações e exportações de cargas, eu quero saber qual modal foi utilizado para o transporte do produto X desde a sua origem até o seu destino final, e
