@@ -30,11 +30,6 @@ Sprint | Previsão | Status| Histórico|
 |04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-
-
-# Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
-
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
@@ -56,7 +51,7 @@ Adicionar video e documentos nessa seção
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
 
- ### Tecnológias Específicas/Apoio
+ ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
 Exemplos: 
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
@@ -181,7 +176,7 @@ User stories
 
 </details>
 
-# Autores
+# Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Pessoa 1         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
