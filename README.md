@@ -48,7 +48,9 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 ## Tecnologias Utilizadas
 <div>
   <img align="center" alt="scrum" heigh="50" width="70" src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png">
-  <img align="center" alt="jira" heign="150" width="170" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png">
+  <img align="center" alt="jira" heigh="150" width="170" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png">
+  <img align="center" alt="Github" heigh="50" width="100" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
+  <img align="center" alt="PowerBi" heigh="50" width="130" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
 </div>
 
   ### Produto 
