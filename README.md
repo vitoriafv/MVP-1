@@ -107,7 +107,7 @@ User stories
 se houve alteração de modal durante o percurso. Com essas informações, quero traçar todo o trajeto que foi feito e saber qual o transporte mais usado.
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![sprint backlog](https://raw.githubusercontent.com/Matheus-Belonia/ProjetoAPI2/main/.img/burndown.png)
 
 
 ## Sprint 0. Concepção
