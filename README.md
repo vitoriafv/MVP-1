@@ -156,7 +156,7 @@ se houve alteração de modal durante o percurso. Com essas informações, quero
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
