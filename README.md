@@ -57,14 +57,11 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
  MVP sprint 0:  Entrega do backlog e documentação referente ao pedido do cliente. 
 
  ### Tecnologias Específicas/Apoio
-Exemplos: 
 - [metodologia SCRUM](https://www.atlassian.com/br/agile/scrum)
 - [Superdicas de Networking para sua vida pessoal e profissional](https://www.lensminarelli.com.br/media_center/superdicas-de-networking-para-sua-vida-pessoal-e-profissional/)
 - [Fundamentos do Dev Team](https://emersonzuliani.com.br/papeis-do-scrum-o-time-de-desenvolvimento-development-team/)
   
  ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
 - Backlog
 - [![backlog](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
 - MVP
