@@ -111,10 +111,10 @@ se houve alteração de modal durante o percurso. Com essas informações, quero
 
 
 ## Sprint 0. Concepção
-- [ ] Estruturar o Jira;
-- [ ] Estruturar o Github;
-- [ ] Aprender a usar o Power BI;
-- [ ] Estudar matriz do transporte;
+- [x] Estruturar o Jira;
+- [x] Estruturar o Github;
+- [x] Aprender a usar o Power BI;
+- [x] Estudar matriz do transporte;
 - [x] Aprender a usar o Jira;
 - [x] Aprender a usar o Github
 
