@@ -142,11 +142,11 @@ se houve alteração de modal durante o percurso. Com essas informações, quero
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
  
 </details>
 
