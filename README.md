@@ -82,6 +82,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <div align="left">
 
  <img align="center" alt="Mat-Bl" height="450" width="612" src="https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/1%20(1).png">
+ <img align="center" alt="Mat-B2" height="450" width="612" src="https://raw.githubusercontent.com/Matheus-Belonia/ProjetoAPI2/main/.img/C%C3%B3pia%20de%201.png">
 
 </div>
 
