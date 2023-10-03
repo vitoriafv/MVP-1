@@ -8,7 +8,6 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -21,14 +20,28 @@ O produto final consiste de um dashboard que identifique os modais utilizados no
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG002.A994.N.074.146.20232/Material%20de%20Aula/Kick-off%20API%202N.pptx?d=w5ac37fd2cf0d4a77b3837f72f2f03dd4&csf=1&web=1&e=f4wPfU) | 
-|00| 25/09/2023  |em progresso| [Ver Relatório](https://fatecspgov.sharepoint.com/:w:/r/sites/API-G4/_layouts/15/Doc.aspx?sourcedoc=%7B69BDB881-B746-42DC-BDBD-D5BF410FCC27%7D&file=relatorio%200.docx&action=default&mobileredirect=true) | 
-|01|  16/10/2023 | a fazer |[Ver Relatório]() | 
+|00| 25/09/2023  |Concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:w:/r/sites/API-G4/_layouts/15/Doc.aspx?sourcedoc=%7B69BDB881-B746-42DC-BDBD-D5BF410FCC27%7D&file=relatorio%200.docx&action=default&mobileredirect=true) | 
+|01|  16/10/2023 | Em progresso |[Ver Relatório]() | 
 |02| 06/11/2023  | a fazer|[Ver Relatório]() | 
 |03| 27/11/2023  |a fazer |[Ver Relatório]()  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Equipe
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/38c0995f31244be7650be8196f5ba684b233500b/WhatsApp%20Image%202023-09-22%20at%2014.00.56.jpeg)
+
+# Autores
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   Helloísa Reis  |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helloisareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/helloisachinaide) |
+| Scrum Master  |  Brenda Nogueira  |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-nogueira-8a61b61a2/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hexagonlogistic) |
+| Team Member   |  Matheus Belônia  |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-bel%C3%B4nia-paix%C3%A3o-4b817225a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Matheus-Belonia) |
+|  Team Member  |  Christopher Leão  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-le%C3%A3o-1953871a9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/chrisleao)  |
+|  Team Member  |  Dener Barros |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dener-barros-4114739b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dener92) |
+|  Team Member  |  Caliel Travezani  |                   ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Calszika2001) |
+|  Team Member  | Alan Douglas |               ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlanDouglas701) |
+|  Team Member  |  Yago Martins |                     ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white) |
+
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a matriz de transportes do Estado de São Paulo entre janeiro e julho de 2023, visando:
@@ -61,21 +74,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 - [Superdicas de Networking para sua vida pessoal e profissional](https://www.lensminarelli.com.br/media_center/superdicas-de-networking-para-sua-vida-pessoal-e-profissional/)
 - [Fundamentos do Dev Team](https://emersonzuliani.com.br/papeis-do-scrum-o-time-de-desenvolvimento-development-team/)
   
- ### Mindset Digital
-- Backlog
-- [![backlog](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
 
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-
-#### Cronograma das Sprints [Clique aqui!](https://github.com/users/Matheus-Belonia/projects/1/views/1)
 
 # Backlog do produto
   
@@ -101,34 +100,9 @@ Requisitos não funcionais
 - Metodologia ágil SCRUM
 - Github / Jira / Canvas / Excel / Power BI
   
-User stories
-- Como um analista de dados de importações e exportações de cargas, eu quero saber qual modal foi utilizado para o transporte do produto X desde a sua origem até o seu destino final, e
-se houve alteração de modal durante o percurso. Com essas informações, quero traçar todo o trajeto que foi feito e saber qual o transporte mais usado.
 
 # Burndown
 ![sprint backlog](https://raw.githubusercontent.com/Matheus-Belonia/ProjetoAPI2/main/.img/burndown.png)
-
-
-## Sprint 0. Concepção
-- [x] Estruturar o Jira;
-- [x] Estruturar o Github;
-- [x] Aprender a usar o Power BI;
-- [x] Estudar matriz do transporte;
-- [x] Aprender a usar o Jira;
-- [x] Aprender a usar o Github
-
-## Sprint 1. Desenvolvimento do Projeto
-- [ ] Tratar dados do Excel;
-- [ ] Relatório Sprint 1;
-- [ ] Entender o que é valor agregado, médio e desvio padrão;
-- [ ] Definir indicadores gerais de importação/exportação;
-- [ ] Criar dashboard da matriz de transporte
-      
-## Sprint 2 . Implementação
-- [ ] Relatório Sprint 2
-      
-## Sprint 3. Operacionalização
-- [ ] Relatório Sprint 3
 
 
 
@@ -163,16 +137,4 @@ se houve alteração de modal durante o percurso. Com essas informações, quero
 
 
 </details>
-
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Helloísa Reis  |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helloisareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/helloisachinaide) |
-| Scrum Master  |  Brenda Nogueira  |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-nogueira-8a61b61a2/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hexagonlogistic) |
-| Team Member   |  Matheus Belônia  |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-bel%C3%B4nia-paix%C3%A3o-4b817225a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Matheus-Belonia) |
-|  Team Member  |  Christopher Leão  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-le%C3%A3o-1953871a9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/chrisleao)  |
-|  Team Member  |  Dener Barros |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dener-barros-4114739b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dener92) |
-|  Team Member  |  Caliel Travezani  |                   ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Calszika2001) |
-|  Team Member  | Alan Douglas |               ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlanDouglas701) |
-|  Team Member  |  Yago Martins |                     ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white) |
 
