@@ -21,7 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG002.A994.N.074.146.20232/Material%20de%20Aula/Kick-off%20API%202N.pptx?d=w5ac37fd2cf0d4a77b3837f72f2f03dd4&csf=1&web=1&e=f4wPfU) | 
 |00| 25/09/2023  |Concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:w:/r/sites/API-G4/_layouts/15/Doc.aspx?sourcedoc=%7B69BDB881-B746-42DC-BDBD-D5BF410FCC27%7D&file=relatorio%200.docx&action=default&mobileredirect=true) | 
-|01|  16/10/2023 | Em progresso |[Ver Relatório]() | 
+|01|  16/10/2023 | Em progresso |[Ver Relatório](https://teams.microsoft.com/_#/pdf/viewer/teamsSdk/https:~2F~2Ffatecspgov.sharepoint.com~2Fsites~2FAPI-G4~2FShared%20Documents~2FGeneral~2FRelatorio%201%20.pdf?threadId=19:dmrDIGmxHgb4_AjL_d0NuzrJW9V_IrUPQp6pdmAFF201@thread.tacv2&subEntityId=%257B%2522viewParams%2522%253A%2522id%253D%25252Fsites%25252FAPI%25252DG4%25252FShared%252520Documents%25252FGeneral%2526listurl%253D%25252Fsites%25252FAPI%25252DG4%25252FShared%252520Documents%2526viewid%253D8c9ff52d%25252D24cd%25252D4431%25252Da5a7%25252Def663efaa32f%2522%257D&baseUrl=https:~2F~2Ffatecspgov.sharepoint.com~2Fsites~2FAPI-G4&fileId=ddc63569-ffd6-4652-b4fb-1483c7a0cb83&ctx=openFilePreview&viewerAction=view) | 
 |02| 06/11/2023  | a fazer|[Ver Relatório]() | 
 |03| 27/11/2023  |a fazer |[Ver Relatório]()  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
