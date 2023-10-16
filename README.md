@@ -10,7 +10,6 @@ Nós, alunos do 2º semestre do curso de Logística da Faculdade de Tecnologia J
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
 # Projeto
@@ -113,39 +112,10 @@ Requisitos não funcionais
   
 
 # Burndown
-![sprint backlog](https://raw.githubusercontent.com/Matheus-Belonia/ProjetoAPI2/main/.img/burndown.png)
+[sprint backlog](https://raw.githubusercontent.com/Matheus-Belonia/ProjetoAPI2/main/.img/burndown.png)
 
+#
 
+![sprint backlog sprint 1](https://raw.githubusercontent.com/Matheus-Belonia/ProjetoAPI2/main/.img/burndown.png)
 
-# Competências desenvolvidas
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-
-</details>
 
