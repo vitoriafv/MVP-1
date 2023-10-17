@@ -77,6 +77,15 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 # Backlog do produto
 
+<b>Cronograma do projeto<b>
+<p>
+ 
+ [Cronograma do projeto](https://projeto2sem.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
+</p>
+
+
+#
+
 Backlog sprint 0
 
  [Backlog do produto sprint 0](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/C%C3%B3pia%20de%201.png)
