@@ -78,6 +78,8 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 # Backlog do produto
 
 <b>Cronograma do projeto<b>
+>[!NOTE]
+> Segue o cronograma da equipe no Jira Software
 <p>
  
  [Cronograma do projeto](https://projeto2sem.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
@@ -86,29 +88,32 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 #
 
-Backlog sprint 0
+<b>Sprint 0<b>
 
  [Backlog do produto sprint 0](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/C%C3%B3pia%20de%201.png)
 
 <p>
 
- [Backlog da sprint 0](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/1%20(1).png>)
+ [Backlog da sprint 0](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/1%20(1).png)
 
  </p>
 
 #
 
-Backlog sprint 1
-<div align="left">
- <p>
-  <img align="center" alt="backlog_sprint1" height="450" width="612" src="https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/Backlog%20Sprint%201.png">
- </p>
-</div>
+<b>Sprint 1<b>
+
+<p>
+ 
+ [Backlog da sprint 1](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/Backlog%20Sprint%201.png)
+</p>
+
+
+#
 
 Backlog sprint 2
 <div align='left'> 
   <p>
-   <img align='center' alt='backlog_sprint2' height='450' width='612' src='https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/.img/Backlog%20Sprint%201.png'>
+   <img align='center' alt='backlog_sprint2' height='450' width='612' src='teste'>
   </p>
 </div>
 
