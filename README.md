@@ -113,7 +113,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 Backlog sprint 2
 <div align='left'> 
   <p>
-   <img align='center' alt='backlog_sprint2' height='450' width='612' src='teste'>
+   <img align='center' alt='backlog_sprint2' height='450' width='612' src='.img/Backlog sprint 2.png'>
   </p>
 </div>
 
