@@ -135,7 +135,7 @@ VALOR MENSAL FOB DO ESTADO DE SP
 
 
 
-![](PBIDesktop_W1nGQv62H2.gif)
+![](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/att.pbx.gif)
 
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/1767dc58-79a3-454a-8c04-5344d3ba92ac)
 
