@@ -128,7 +128,13 @@ VALOR POR SH4 NOS 5 MUNICIPIOS PEDIDOS
 
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/7712677d-a7d8-4f53-9cd0-b8bcb5a071c7)
 
-  
+
+<p>
+VALOR MENSAL FOB DO ESTADO DE SP
+</p>
+
+![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/1767dc58-79a3-454a-8c04-5344d3ba92ac)
+
 
 # Burndown
 <p>
