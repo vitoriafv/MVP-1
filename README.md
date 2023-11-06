@@ -133,12 +133,15 @@ VALOR POR SH4 NOS 5 MUNICIPIOS PEDIDOS
 VALOR MENSAL FOB DO ESTADO DE SP
 </p>
 
+
+
+![](PBIDesktop_W1nGQv62H2.gif)
+
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/1767dc58-79a3-454a-8c04-5344d3ba92ac)
 
 <p>
 VALOR AGREGADO DE CADA PRODUTO POR MUNICIPIO
 </p>
-
 
 ![](oPBIDesktop_P9c0jX4dcI.gif)
 
