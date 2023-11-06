@@ -139,7 +139,7 @@ VALOR MENSAL FOB DO ESTADO DE SP
 VALOR AGREGADO DE CADA PRODUTO POR MUNICIPIO
 </p>
 
-![6ZWHW4piIP](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/22a26898-12ea-4caf-b623-8b1c465f5148)
+![6ZWHW4piIP](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/d1c4af04-01f8-4c59-804a-66edfe6a1d82)
 
 
 # Burndown
