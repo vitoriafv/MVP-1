@@ -46,15 +46,7 @@ Este projeto tem como objetivo analisar a matriz de transportes do Estado de Sã
 * Desenvolver habilidades técnicas;
 * Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas;
 * Desenhar a geografia do fluxo da carga para importação e exportação.
-  
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
-
-[![Github](https://i.ytimg.com/vi/DqTITcMq68k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtsOKZaJPf3R8dOV91BQYXFL1r2w)](https://www.youtube.com/watch?v=DqTITcMq68k)
-[![Jira-software](https://i.ytimg.com/vi/aTjZxZX99Hw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdz60aPvksXoXf0PKADaIhc0pu7w)](https://www.youtube.com/watch?v=aTjZxZX99Hw)
 
 ## Tecnologias Utilizadas
 <div>
@@ -66,13 +58,6 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
   ### Produto 
  MVP sprint 0:  Entrega do backlog e documentação referente ao pedido do cliente. 
-
- ### Tecnologias Específicas/Apoio
-- [metodologia SCRUM](https://www.atlassian.com/br/agile/scrum)
-- [Superdicas de Networking para sua vida pessoal e profissional](https://www.lensminarelli.com.br/media_center/superdicas-de-networking-para-sua-vida-pessoal-e-profissional/)
-- [Fundamentos do Dev Team](https://emersonzuliani.com.br/papeis-do-scrum-o-time-de-desenvolvimento-development-team/)
-  
-
 
 # Backlog do produto
 
