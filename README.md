@@ -114,6 +114,15 @@ Requisitos não funcionais
 - Facil usabilidade
 - Metodologia ágil SCRUM
 - Github / Jira / Canvas / Excel / Power BI
+
+# MVP DO PRODUTO 
+<p>
+TOTAL DE EXPORTAÇÃO POR MODAL NO ESTADO DE SP
+</p>
+
+![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/36432025-7dae-44ff-866a-9badf9a6c2c6)
+
+
   
 
 # Burndown
