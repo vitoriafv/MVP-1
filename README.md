@@ -122,6 +122,11 @@ TOTAL DE EXPORTAÇÃO POR MODAL NO ESTADO DE SP
 
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/36432025-7dae-44ff-866a-9badf9a6c2c6)
 
+<p>
+VALOR POR SH4 NOS 5 MUNICIPIOS PEDIDOS
+</p>
+
+![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/7712677d-a7d8-4f53-9cd0-b8bcb5a071c7)
 
   
 
