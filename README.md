@@ -155,7 +155,7 @@ VALOR POR MUNICIPIO MAPA POR VALOR EXP/IMP
 VALOR PARA CADA PAIS EXP DO ESTADO DE SP
 </p>
 
-![](PBIDesktop_pgYm6q176p.gif)
+![](PBIDesktop_NdvYrYYq81.gif)
 
 # Burndown
 <p>
