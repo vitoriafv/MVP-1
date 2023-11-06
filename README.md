@@ -145,7 +145,11 @@ VALOR AGREGADO DE CADA PRODUTO POR MUNICIPIO
 
 ![](att.pbx2.gif)
 
+<p>
+VALOR POR MUNICIPIO MAPA POR VALOR
+</p>
 
+![](PBIDesktop_pgYm6q176p.gif)
 # Burndown
 <p>
 Sprint 0
