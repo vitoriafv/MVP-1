@@ -159,6 +159,8 @@ VALOR PARA CADA PAIS EXP DO ESTADO DE SP
 
 VALOR AGREGADO EXP/IMP POR MODAL-SP
 
+![](PBIDesktop_m7NGwmG8hv.gif) 
+
 # Burndown
 <p>
 Sprint 0
