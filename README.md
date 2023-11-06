@@ -122,6 +122,9 @@ TOTAL DE EXPORTAÇÃO POR MODAL NO ESTADO DE SP
 
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/36432025-7dae-44ff-866a-9badf9a6c2c6)
 
+
+![](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/att.pbx.gif)
+
 <p>
 VALOR POR SH4 NOS 5 MUNICIPIOS PEDIDOS
 </p>
@@ -134,16 +137,13 @@ VALOR MENSAL FOB DO ESTADO DE SP
 </p>
 
 
-
-![](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/att.pbx.gif)
-
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/1767dc58-79a3-454a-8c04-5344d3ba92ac)
 
 <p>
 VALOR AGREGADO DE CADA PRODUTO POR MUNICIPIO
 </p>
 
-![](oPBIDesktop_P9c0jX4dcI.gif)
+
 
 
 # Burndown
