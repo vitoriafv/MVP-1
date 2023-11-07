@@ -167,7 +167,7 @@ VALOR AGREGADO EXP/IMP POR MODAL-SP
 VALOR FOB POR PAIS EXP DE PILHAS
 </p>
 
-![](PBIDesktop_m7NGwmG8hv.gif) 
+![](PBIDesktop_6RmzHnj0ZL.gif) 
 
 # Burndown
 <p>
