@@ -157,7 +157,15 @@ VALOR PARA CADA PAIS EXP DO ESTADO DE SP
 
 ![](PBIDesktop_NdvYrYYq81.gif)
 
+<p>
 VALOR AGREGADO EXP/IMP POR MODAL-SP
+</p>
+
+![](PBIDesktop_m7NGwmG8hv.gif) 
+
+<p>
+VALOR FOB POR PAIS EXP DE PILHAS
+</p>
 
 ![](PBIDesktop_m7NGwmG8hv.gif) 
 
