@@ -105,7 +105,7 @@ Backlog sprint 2
 Backlog sprint 3
 <div align='left'> 
   <p>
-   <img align='center' alt='backlog_sprint2' height='380' width='1680' src='Backlog Sprint 3.png'>
+   <img align='center' alt='backlog_sprint2' height='380' width='1680' src='image.png'>
   </p>
 </div>
 
