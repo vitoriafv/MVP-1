@@ -146,11 +146,7 @@ VALOR MENSAL FOB DO ESTADO DE SP
 
 ![image](https://github.com/Matheus-Belonia/ProjetoAPI2/assets/128005852/1767dc58-79a3-454a-8c04-5344d3ba92ac)
 
-<p>
-VALOR AGREGADO DE CADA PRODUTO POR MUNICIPIO
-</p>
 
-![](att.pbx2.gif)
 
 <p>
 VALOR POR MUNICIPIO MAPA POR VALOR EXP/IMP
