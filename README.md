@@ -56,8 +56,7 @@ Este projeto tem como objetivo analisar a matriz de transportes do Estado de Sã
   <img align="center" alt="PowerBi" heigh="50" width="130" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
 </div>
 
-  ### Produto 
- MVP sprint 0:  Entrega do backlog e documentação referente ao pedido do cliente. 
+
 
 # Backlog do produto
 
