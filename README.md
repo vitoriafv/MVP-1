@@ -203,4 +203,4 @@ Sprint 2
 Sprint 3
 </p>
 
-![image](Captura de tela 2023-11-27 193619.png)
+![image](https://github.com/Matheus-Belonia/ProjetoAPI2/blob/main/Captura%20de%20tela%202023-11-27%20193619.png)
