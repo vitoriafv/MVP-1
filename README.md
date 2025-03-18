@@ -96,7 +96,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |07| dd/mm/aaaa |	Principais cargas movimentadas por município (top 5)|[MVP](https://) |       f     |       f       |
 |08| dd/mm/aaaa |Ranking de valor agregado de exp e imp |[MVP](https://)  | f          |    f         |
 |09| dd/mm/aaaa | Visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.|[MVP](https://) |       f     |       f       |
-|10| dd/mm/aaaa 	Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica.|[MVP](https://)  | f          |    f         |
+|10| dd/mm/aaaa |	Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica.|[MVP](https://)  | f          |    f         |
 |11| dd/mm/aaaa |	Divisão por municípios de sp|[MVP](https://) |       f     |       f       |
 |12| dd/mm/aaaa |Top 5 de municípios que mais exportam |[MVP](https://)  | f          |    f         |
 |13| dd/mm/aaaa |	VA ( valor fob/kg liquido) |[MVP](https://)  | f          |    f         |
