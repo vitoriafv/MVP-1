@@ -97,10 +97,9 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |08|             | Como cliente, quero criar um ranking de valor agregado de exportação. |              |           |             |
 |09|             | Como cliente, quero que seja criada uma visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.|       
     |            |              |
-|10|             | Como cliente, quero ter acesso a ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica.|       
-    |            |              |
-|11|           |	Como cliente, quero visualizar a divisão de dados de São Paulo por municípios. |             |            |              |
-|12|            | Como cliente, quero ter a visualização dos municípios que mais exportam.      |             |            |              |
+|10|    g         | Como cliente, quero ter acesso a ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica. |     d      |     d    |      d      |
+|11|           |	Como cliente, quero visualizar a divisão de dados de São Paulo por municípios. |       h      |       h     |        h      |
+|12|      h      | Como cliente, quero ter a visualização dos municípios que mais exportam.      |      h       |       h     |        h      |
 
 
 
