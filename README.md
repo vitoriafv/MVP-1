@@ -89,16 +89,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
-|01 |      Média     | Como cliente, quero uma plataforma de BI para visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior. |      |         |            | 
-|02|     Média      | Como administrador do sistema, quero o desempenho comercial dos municípios para comparar uns aos outros. |            |            |             |
-|05|     Baixa       |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações.|           |             |
-|06|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |              |            |              |
-|07|      Alta      |	Como gerente, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades. |           |            |              |
-|08|    Média    | Como cliente, quero criar um ranking para visualizar o valor agregado de exportação. |              |           |             |
-|09|       Baixa      | Como gestor, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.|  
-|10|     Baixa        | Como cliente, quero ter acesso a ferramentas para buscar cargas por código NCM e aplicar filtros personalizados para análise específica. |           |         |            |
-|11|      Alta     |	Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |            |            |              |
-|12|     Alta       | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista.      |             |            |              |
+|01 |      Média     | Como cliente, quero uma plataforma de BI para visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior. |      |  3       |            | 
+|02|     Média      | Como administrador do sistema, quero o desempenho comercial dos municípios para comparar uns aos outros. |            |      3      |             |
+|05|     Baixa       |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações.|     4      |             |
+|06|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |              |      2      |              |
+|07|      Alta      |	Como gerente, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades. |      2     |            |              |
+|08|    Média    | Como cliente, quero criar um ranking para visualizar o valor agregado de exportação. |              |      2     |             |
+|09|       Baixa      | Como gestor, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.|        |      4    |          |   
+|10|     Baixa        | Como cliente, quero ter acesso a ferramentas para buscar cargas por código NCM e aplicar filtros personalizados para análise específica. |           |    4     |            |
+|11|      Alta     |	Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |            |       1     |              |
+|12|     Alta       | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista.      |             |     1       |              |
 
 
 
