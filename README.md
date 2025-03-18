@@ -88,10 +88,22 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
 |01 | dd/mm/aaaa | 	plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior| [MVP](https://) |    f     |         f    | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) |       f     |      f       |
-|03| dd/mm/aaaa | a fazer|[MVP](https://) |       f     |       f       |
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | f          |    f         |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) |      f      |   f     |
+|02|  dd/mm/aaaa| 	desempenho comercial de um município comparado aos outros|[MVP](https://) |       f     |      f       |
+|03| dd/mm/aaaa |	Quais países têm aumentado a importação de produtos específicos dos municípios paulistas?|[MVP](https://) |       f     |       f       |
+|04| dd/mm/aaaa |	Os municípios concentram suas exportações/importações em poucos produtos ou apresentam uma pauta diversificada?|[MVP](https://) |       f     |       f       |
+|05| dd/mm/aaaa |	Quais as principais vias de transporte para escoar exportações e receber importações|[MVP](https://)  | f          |    f         |
+|06| dd/mm/aaaa | Quais são os principais fornecedores e clientes|[MVP](https://) |       f     |       f       |
+|07| dd/mm/aaaa |	Principais cargas movimentadas por município (top 5)|[MVP](https://) |       f     |       f       |
+|08| dd/mm/aaaa |Ranking de valor agregado de exp e imp |[MVP](https://)  | f          |    f         |
+|09| dd/mm/aaaa | Visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.
+
+|[MVP](https://) |       f     |       f       |
+|10| dd/mm/aaaa 	Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica.
+
+ |[MVP](https://)  | f          |    f         |
+|11| dd/mm/aaaa |	Divisão por municípios de sp|[MVP](https://) |       f     |       f       |
+|12| dd/mm/aaaa |Top 5 de municípios que mais exportam |[MVP](https://)  | f          |    f         |
+|13| dd/mm/aaaa |	VA ( valor fob/kg liquido) |[MVP](https://)  | f          |    f         |
 
 
 # Registro das Sprints
