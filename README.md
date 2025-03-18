@@ -87,7 +87,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) |    f     |         f    | 
+|01 | dd/mm/aaaa | 	plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior| [MVP](https://) |    f     |         f    | 
 |02|  dd/mm/aaaa| a fazer|[MVP](https://) |       f     |      f       |
 |03| dd/mm/aaaa | a fazer|[MVP](https://) |       f     |       f       |
 |04| dd/mm/aaaa |a fazer |[MVP](https://)  | f          |    f         |
