@@ -85,6 +85,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
+Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
+|------|--------|------|--------|----------|---------|
+|01 | dd/mm/aaaa | a fazer| [MVP](https://) |    f     |         f    | 
+|02|  dd/mm/aaaa| a fazer|[MVP](https://) |       f     |      f       |
+|03| dd/mm/aaaa | a fazer|[MVP](https://) |       f     |       f       |
+|04| dd/mm/aaaa |a fazer |[MVP](https://)  | f          |    f         |
+|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) |      f      |   f     |
+
+
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
