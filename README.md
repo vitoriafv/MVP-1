@@ -95,8 +95,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |06|            | Como cliente, quero saber quais são os principais fornecedores e clientes. |              |            |              |
 |07|            |	Como cliente, quero uma lista das principais cargas movimentadas por município. |           |            |              |
 |08|             | Como cliente, quero criar um ranking de valor agregado de exportação. |              |           |             |
-|09|             | Como cliente, quero que seja criada uma visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.|       
-    |            |              |
+|09|             | Como cliente, quero que seja criada uma visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.|  
 |10|    g         | Como cliente, quero ter acesso a ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica. |     d      |     d    |      d      |
 |11|           |	Como cliente, quero visualizar a divisão de dados de São Paulo por municípios. |       h      |       h     |        h      |
 |12|      h      | Como cliente, quero ter a visualização dos municípios que mais exportam.      |      h       |       h     |        h      |
