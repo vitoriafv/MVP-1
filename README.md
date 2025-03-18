@@ -87,19 +87,20 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
-|01 | dd/mm/aaaa | 	plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior| [MVP](https://) |    f     |         f    | 
-|02|  dd/mm/aaaa| 	desempenho comercial de um município comparado aos outros|[MVP](https://) |       f     |      f       |
-|03| dd/mm/aaaa |	Quais países têm aumentado a importação de produtos específicos dos municípios paulistas?|[MVP](https://) |       f     |       f       |
-|04| dd/mm/aaaa |	Os municípios concentram suas exportações/importações em poucos produtos ou apresentam uma pauta diversificada?|[MVP](https://) |       f     |       f       |
-|05| dd/mm/aaaa |	Quais as principais vias de transporte para escoar exportações e receber importações|[MVP](https://)  | f          |    f         |
-|06| dd/mm/aaaa | Quais são os principais fornecedores e clientes|[MVP](https://) |       f     |       f       |
-|07| dd/mm/aaaa |	Principais cargas movimentadas por município (top 5)|[MVP](https://) |       f     |       f       |
-|08| dd/mm/aaaa |Ranking de valor agregado de exp e imp |[MVP](https://)  | f          |    f         |
-|09| dd/mm/aaaa | Visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.|[MVP](https://) |       f     |       f       |
-|10| dd/mm/aaaa |	Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica.|[MVP](https://)  | f          |    f         |
-|11| dd/mm/aaaa |	Divisão por municípios de sp|[MVP](https://) |       f     |       f       |
-|12| dd/mm/aaaa |Top 5 de municípios que mais exportam |[MVP](https://)  | f          |    f         |
-|13| dd/mm/aaaa |	VA ( valor fob/kg liquido) |[MVP](https://)  | f          |    f         |
+|01 |           | Como cliente, quero uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior. |      |         |            | 
+|02|           | Como cliente, quero o desempenho comercial de um município comparado aos outros. |            |            |             |
+|03|            |	Como cliente, quero saber quais países têm aumentado a importação de produtos específicos dos municípios paulistas. |            |            |              |
+|04|             |	Como cliente, quero saber se os municípios concentram suas exportações/importações em poucos produtos ou apresentam uma pauta diversificada. |            |            |              |
+|05|            |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações.|           |             |
+|06|            | Como cliente, quero saber quais são os principais fornecedores e clientes. |              |            |              |
+|07|            |	Como cliente, quero uma lista das principais cargas movimentadas por município. |           |            |              |
+|08|             | Como cliente, quero criar um ranking de valor agregado de exportação. |              |           |             |
+|09|             | Como cliente, quero que seja criada uma visualização gráfica interativa, apresentando a evolução da balança comercial dos municípios no período de 2023 a 2024.|       
+    |            |              |
+|10|           |	Como cliente, quero ter acesso a ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica.|           |           |             |
+|11|           |	Como cliente, quero visualizar a divisão de dados de São Paulo por municípios. |             |            |              |
+|12|            | Como cliente, quero ter a visualização dos municípios que mais exportam. |              |          |             |
+
 
 
 # Registro das Sprints
