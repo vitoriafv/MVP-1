@@ -110,4 +110,4 @@ Sprint | Previsão | Status| Histórico|
 |02|  23/04/2025| a fazer|[MVP](https://) | 
 |03| 14/05/2025 | a fazer|[MVP](https://) | 
 |04| 25/06/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
