@@ -57,7 +57,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Finalize e aprovação.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
+- [X] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
