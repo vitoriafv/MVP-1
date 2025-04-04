@@ -85,9 +85,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
 |01 |      Alta     | Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |   4   |  1       |     RN.P.2       | 
-|02|     Média      | Como administrador do sistema, quero o desempenho comercial dos municípios para comparar uns aos outros. |            |      3      |             |
-|05|     Baixa       |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações.|           |        4     |
-|06|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |              |      2      |              |
+|02|     Alta      | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista. |       5     |      1      |       RN.P.1      |
+|05|     Alta       |	Como especialista em logística, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades.|      2     |        1     |      RN.P.1 |
+|06|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |        2      |      2      |       RN.P.5       |
 |07|      Alta      |	Como especialista em logística, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades. |           |      2      |              |
 |08|    Média    | Como cliente, quero criar um ranking para visualizar o valor agregado de exportação. |              |      2     |             |
 |09|       Baixa      | Como especialista em logística, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.|        |      4    |          |   
