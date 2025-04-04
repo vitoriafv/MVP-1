@@ -84,7 +84,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
-|01 |      Média     | Como cliente, quero uma plataforma de BI para visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior. |      |  3       |            | 
+|01 |      Alta     | Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |   4   |  1       |     RN.P.2       | 
 |02|     Média      | Como administrador do sistema, quero o desempenho comercial dos municípios para comparar uns aos outros. |            |      3      |             |
 |05|     Baixa       |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações.|           |        4     |
 |06|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |              |      2      |              |
