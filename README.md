@@ -46,9 +46,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
 - [ ] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
@@ -99,7 +99,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 09/04/2025 | fazendo | [MVP](https://) | 
+|01 | 09/04/2025 | em andamento | [MVP](https://) | 
 |02|  23/04/2025| a fazer|[MVP](https://) | 
 |03| 14/05/2025 | a fazer|[MVP](https://) | 
 |04| 25/06/2025 |a fazer |[MVP](https://)  | 
