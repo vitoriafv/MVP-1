@@ -86,14 +86,16 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
 |01 |      Alta     | Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |   4   |  1       |     RN.P.2       | 
 |02|     Alta      | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista. |       5     |      1      |       RN.P.1      |
-|05|     Alta       |	Como especialista em logística, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades.|      2     |        1     |      RN.P.1 |
-|06|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |        2      |      2      |       RN.P.5       |
-|07|      Alta      |	Como especialista em logística, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades. |           |      2      |              |
-|08|    Média    | Como cliente, quero criar um ranking para visualizar o valor agregado de exportação. |              |      2     |             |
-|09|       Baixa      | Como especialista em logística, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.|        |      4    |          |   
-|10|     Baixa        | Como cliente, quero ter acesso a ferramentas para buscar cargas por código NCM e aplicar filtros personalizados para análise específica. |           |    4     |            |
-|11|      Alta     |	Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |            |       1     | Excluir os valores FOB zerados. Mas gostaria de saber a quantidade de linhas excluidas.|
-|12|     Alta       | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista.      |             |     1       |Ter um ranking para cada coluna de informações (top 5).|
+|03|     Alta       |	Como especialista em logística, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades.|      2     |        1     |      RN.P.1 |
+|04|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |        2      |      2      |       RN.P.5       |
+|05|      Média      |	Como cliente, quero criar um ranking para visualizar o valor agregado de exportação. |     3      |      2      |       RN.P.6       |
+|06|    Média    | Como cliente, quero ter acesso as versões do projeto através da plataforma GitHub para acompanhar o desenvolvimento da ferramenta |         6     |      2     |       RN.P.4      |
+|07|       Média      | Como usuário da ferramenta, quero uma plataforma de BI para visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior.|    6    |      3    |    RN.P.3      |   
+|08|     Média        | Como administrador do sistema, quero o desempenho comercial dos municípios para comparar uns aos outros. |     3      |    3     |     RN.P.2       |
+|09|      Baixa   |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações. |      2      |       4     | RN.P.3|
+|10|     Baixa      | Como especialista em logística, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.      |       4      |     4       |RN.P.5|
+|11|     Baixa       | Como cliente, quero ter acesso a ferramentas para buscar cargas por código NCM e aplicar filtros personalizados para análise específica.      |      3       |     4      |RN.P.6|
+
 
 
 
