@@ -38,7 +38,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Github (backlog);
+> Python (análise de dados e filtragem);
+> Power BI (visualização dos dados);
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
@@ -91,7 +93,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |09|       Baixa      | Como especialista em logística, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.|        |      4    |          |   
 |10|     Baixa        | Como cliente, quero ter acesso a ferramentas para buscar cargas por código NCM e aplicar filtros personalizados para análise específica. |           |    4     |            |
 |11|      Alta     |	Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |            |       1     | Excluir os valores FOB zerados. Mas gostaria de saber a quantidade de linhas excluidas.|
-|12|     Alta       | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista.      |             |     1       |Ter um ranking para cada (top 5).|
+|12|     Alta       | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista.      |             |     1       |Ter um ranking para cada coluna de informações (top 5).|
 
 
 
