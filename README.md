@@ -90,8 +90,8 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |08|    Média    | Como cliente, quero criar um ranking para visualizar o valor agregado de exportação. |              |      2     |             |
 |09|       Baixa      | Como especialista em logística, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.|        |      4    |          |   
 |10|     Baixa        | Como cliente, quero ter acesso a ferramentas para buscar cargas por código NCM e aplicar filtros personalizados para análise específica. |           |    4     |            |
-|11|      Alta     |	Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |            |       1     | E excluir os valores FOB 0. Mas gostaria de saber a quantidade de linhas excluidas.|
-|12|     Alta       | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista.      |             |     1       |  Top 5 municípios            |
+|11|      Alta     |	Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |            |       1     | Excluir os valores FOB zerados. Mas gostaria de saber a quantidade de linhas excluidas.|
+|12|     Alta       | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista.      |             |     1       |Ter um ranking para cada (top 5).|
 
 
 
